@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
                 "src/test/resources/features/"
         }
         , glue = "stepdefinations"
-        , tags = "@ValidarIngresoUsuarioEnElCampolNOT" // Agregar la etiqueta del test que se quiere probar
+        //, tags = "@validarFormularioHastaContratacionCH" // Agregar la etiqueta del test que se quiere probar
 )
 
 public class CucumberTestSuite {
